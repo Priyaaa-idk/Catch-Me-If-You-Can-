@@ -7,4 +7,4 @@ This repository has several games I’ve made over time. Some are fun, and some 
 # You can play my games here!
 1. [Catch Me If You Can!](https://priyaaa-idk.github.io/Priyaaa-idk/Catch%20Me%20If%20You%20Can!.html)
 2. [Rock Paper Scissors](https://priyaaa-idk.github.io/Priyaaa-idk/rock%20paper%20scissors.html)
-3. [A Boring Puzzle Game](https://priyaaa-idk.github.io/Priyaaa-idk/A%20Boring%20Puzzle%20Game%20.html)
+3. [A Boring Puzzle Game](https://priyaaa-idk.github.io/Priyaaa-idk/A%20Boring%20Puzzle%20Game.html)
