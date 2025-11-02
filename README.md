@@ -6,4 +6,4 @@ This repository has several games I’ve made over time. Some are fun, and some 
 
 # You can play my games here!
 1. [Catch Me If You Can!](https://priyaaa-idk.github.io/Priyaaa-idk/Catch%20Me%20If%20You%20Can!.html)
-2. [Guess The Number](https://github.com/Priyaaa-idk/Priyaaa-idk/blob/22939ca93f1900d64d6161a4b3349e7784f7d6da/guess%20the%20number.html)
+2. [Guess The Number](https://priyaaa-idk.github.io/Priyaaa-idk//Catch%20Me%20If%20You%20Can!.html)
